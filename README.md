@@ -4,6 +4,6 @@ The game is written in Javascript. <br/>
 A live version of the game can be found [here](https://the-hdr-minesweeper.netlify.app/). <br/>
 Feel free to make PRs. <br/>
 
-Functionalities to be added:
+Features to be added:
 + Timer to see how much time a player took.
 + Global leaderboard.

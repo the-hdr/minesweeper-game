@@ -5,5 +5,5 @@ A live version of the game can be found [here](https://the-hdr-minesweeper.netli
 Feel free to make PRs. <br/>
 
 Features to be added:
-- [] Timer to see how much time a player took.
-- [] Global leaderboard.
+- [ ] Timer to see how much time a player took.
+- [ ] Global leaderboard.
